@@ -5,27 +5,36 @@
 - Shirts
 - Etc
 
+
 ## License
 
-### [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](http://creativecommons.org/licenses/by-nd/3.0/ "Creative Commons &mdash; Attribution-NoDerivs 3.0 Unported &mdash; CC BY-ND 3.0")
+(cc) Some Rights Reserved 2011 [Shane Becker](https://github.com/veganstraightedge)
+
+
+### [Attribution-NoDerivatives 4.0 International — CC BY-ND 4.0](http://creativecommons.org/licenses/by-nd/4.0/legalcode "Creative Commons — Attribution-NoDerivatives 4.0 International — CC BY-ND 4.0")
+
 
 #### You are free:
 
-to Share — to copy, distribute and transmit the work
+**Share** &mdash; copy and redistribute the material in any medium or format for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
 
 #### Under the following conditions:
 
-- **Attribution** — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-- **No Derivative Works** — You may not alter, transform, or build upon this work.
+**Attribution** — You must give **appropriate credit**, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-#### With the understanding that:
+**NoDerivatives** — If you **remix, transform, or build upon** the material, you may not distribute the modified material.
 
-- **Waiver** — Any of the above conditions can be waived if you get permission from the copyright holder.
-- **Public Domain** — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
-- **Other Rights** — In no way are any of the following rights affected by the license:
-  - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
-  - The author's moral rights;
-  - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
-- **Notice** — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+**No additional restrictions** — You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
 
-This is a human-readable summary of the [Legal Code (the full license)](http://creativecommons.org/licenses/by-nd/3.0/legalcode "Creative Commons Legal Code").
+
+#### Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable **exception or limitation**.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as **publicity, privacy, or moral rights** may limit how you use the material.
+
+
+This is a human-readable summary of (and not a substitute for) [the license](http://creativecommons.org/licenses/by-nd/4.0/legalcode "Creative Commons — Attribution-NoDerivatives 4.0 International — CC BY-ND 4.0").
